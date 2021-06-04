@@ -1,5 +1,5 @@
 -- DELIVERABLE 1
--- Find the employees that alre eligible to retire
+-- Find the employees that are eligible to retire
 SELECT e.emp_no, e.first_name, e.last_name
 FROM employees AS e;
 
